@@ -1,7 +1,7 @@
 # Traffic-prediction-Hybrid-Model
 Advanced Hybrid model for predicting traffic congestion
 
-Members : N Mujeeb Rahman,
+Members : N Mujeeb Rahman,Krishnakanth A S
 
 This project implements a **hybrid traffic speed prediction model** using real-world traffic data. The code predicts traffic speed **1 hour ahead** by combining two approaches: a **historical pattern-matching model** and a **Bayesian residual correction model**. The hybrid of these two provides a more accurate prediction than either model individually.
 
