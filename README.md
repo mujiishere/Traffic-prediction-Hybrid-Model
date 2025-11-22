@@ -18,5 +18,4 @@ The code includes:
 * Hybrid prediction (Historical + Bayesian)
 * sMAPE evaluation and optional congestion analysis
 
-This README provides an overview of the project, dataset, and methodology so users can understand and run the code comfortably.
 
